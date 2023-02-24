@@ -1,0 +1,3 @@
+ssh-rsa +z8NgLaraaslesha@VAIO
+
+C:\Users\Aaslesha\.ssh>
